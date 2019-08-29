@@ -1,0 +1,14 @@
+body{
+     background-color: aliceblue
+}
+table{
+    width: 100%;
+}
+caption{
+    border: 1px solid black;
+    text-align: center;
+    color: midnightblue
+}
+.Part{
+    text-align: center;
+}
